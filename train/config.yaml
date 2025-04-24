@@ -1,0 +1,8 @@
+path: D:/CVCD_Data/data
+train: images/train
+val: images/val
+
+
+names:
+  0: corn
+  1: weed
